@@ -5,7 +5,7 @@ DUPLA/TRIO:
 - Gabriela Kimi Katsurayama
 - Nicolas Enzo Yassuda
 - Pedro Henrique Rizo Colpas
-- Link do GitHub Pages: https://github.com/insper-tecnologias-web/desafio-css-programadorhtml
+- Link do GitHub Pages: https://insper-tecnologias-web.github.io/desafio-css-programadorhtml/
 
 ## Desafio CSS
 
