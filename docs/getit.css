@@ -78,3 +78,129 @@ body {
 
   transition: width 0.2s ease-out, padding-top 0.2s ease-out;
 } */
+.container{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin:5% 5% 5%
+}
+.form-card{
+  display: flex;
+  width: 35vw;
+  height: 15vh;
+  flex-direction: column;
+  justify-content: center;
+  background-color: white;
+  box-shadow: 2px 2px 2px 2px rgba(0, 0, 0, 0.4) ;
+  border-radius: 5px;
+  padding: 10px;
+  margin-bottom: 10vh;
+}
+.form-card-title{
+  border: none;
+  font-size: 16pt;
+}
+.autoresize{
+  margin-top: 10px;
+  border:none;
+  height: auto;
+  width: 100%;
+}
+.appbar{
+  display: flex;
+  align-items: center;
+  background-color: #f8d434;
+  box-shadow: 0 5px 10px -2px gray;
+}
+.logo{
+  height: 45px;
+  margin:5px;
+}
+.card-container{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+.card{
+  width: 200px;
+  border-radius: 5px;
+  background-color: #f8d434;
+  margin: 15px;
+  padding: 10px;
+  box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+}
+.btn{
+  background-color: #f8d434;
+  border: none;
+  border-radius: 5px;
+  height: 32px;
+  box-shadow: 1.5px 1.5px 1.5px gray;
+}
+.card-color-1{
+  background-color: #ead3a7;
+}
+.card-color-2{
+ background-color: #9de0f5;
+}
+.card-color-3{
+  background-color: #ef89ba;
+}
+.card-color-4{
+  background-color: #fae890;
+}
+
+.card-color-5{
+  background-color: #abe9c1;
+}
+.card-title{
+  font-size: 16px;
+  font-family:'Permanent Marker', cursive;
+  font-weight: bold;
+}
+.card-content{
+  font-family: 'Permanent Marker';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/permanentmarker/v16/Fh4uPib9Iyv2ucM6pGQMWimMp004La2Cfw.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+  color:#4c4c4c;
+}
+.card-rotation-1{
+ rotate: 5deg;
+}
+.card-rotation-2{
+  rotate: -5deg;
+}
+.card-rotation-3{
+  rotate: 7deg;
+}
+.card-rotation-4{
+  rotate: -7deg;
+}
+.card-rotation-5{
+  rotate: 2deg;
+}
+.card-rotation-6{
+  rotate: -2deg;
+}
+.card-rotation-7{
+  rotate: 10deg;
+}
+.card-rotation-8{
+  rotate: -10deg;
+}
+.card-rotation-9{
+  rotate: 15deg;
+}
+.card-rotation-10{
+  rotate: -15deg;
+}
+.card-rotation-11{
+  rotate: 20deg;
+}
+.contai{
+  w:100;
+  jcc:center;
+}

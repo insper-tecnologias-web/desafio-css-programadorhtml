@@ -26,5 +26,6 @@ document.addEventListener("DOMContentLoaded", function () {
       1,
       5
     )} card-rotation-${getRandomInt(1, 11)}`;
+    
   }
 });
