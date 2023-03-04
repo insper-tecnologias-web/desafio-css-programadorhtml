@@ -2,10 +2,10 @@
 
 DUPLA/TRIO:
 
-- DIGITE O NOME DO PRIMEIRO INTEGRANTE
-- DIGITE O NOME DO SEGUNDO INTEGRANTE
-- DIGITE O NOME DO TERCEIRO INTEGRANTE
-- Link do GitHub Pages: COLOQUE O LINK AQUI (POR EXEMPLO: https://insper-tecnologias-web.github.io/desafio-css/)
+- Gabriela Kimi Katsurayama
+- Nicolas Enzo Yassuda
+- Pedro Henrique Rizo Colpas
+- Link do GitHub Pages: https://insper-tecnologias-web.github.io/desafio-css-programadorhtml/
 
 ## Desafio CSS
 
